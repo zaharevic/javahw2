@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-10T10:14:55.599478700Z</date>
+  <millis>1688984095599</millis>
+  <nanos>478700</nanos>
+  <sequence>0</sequence>
+  <logger>lesson2.hw.second</logger>
+  <level>INFO</level>
+  <class>lesson2.hw.second</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Array:</message>
+</record>
+</log>
